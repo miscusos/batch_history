@@ -1,8 +1,7 @@
-# project title
-astra's awesome project
+# batch codes
 
 ## description
-this project is designed to showcase my skills in batch scripting and ethical hacking. it includes a variety of tools and scripts that demonstrate different functionalities.
+**here you can find batch codes**
 
 ## features
 - gray hacking tool: includes brute forcing, DoS attacks, IP lookup, SMS sending, and more.
