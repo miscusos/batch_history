@@ -25,4 +25,4 @@
 - contributions are welcome! please fork the repository and submit a pull request with your changes.
 
 ## license
-this project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+this project is licensed under the MIT License - see the [LICENSE.md](https://github.com/miscusos/batch_history/edit/main/README.md) file for details.
