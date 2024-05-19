@@ -10,6 +10,7 @@ if "%input%"=="" (
 ) else if /i "%input%"=="no" (
 	echo okay..
 	pause >nul 2>&1
+    exit
 ) else (
 	goto inp
 )
