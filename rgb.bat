@@ -52,5 +52,5 @@ set /p "text=>> "
 if "%text%"=="" (
 	goto txt
 )
-echo "%color%%text%%white%"
+echo %white%"%color%%text%%white%"
 pause >nul 2>&1
