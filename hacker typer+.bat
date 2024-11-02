@@ -127,6 +127,9 @@ if /i "%name%"=="" (
     )
 )
 :readd
+echo note, it has bugs at colors..
+    timeout /t 2 >nul
+        cls
 cd %userprofile% >nul 2>&1
     if exist "ghosttyping.txt" (
 cd %original% >nul 2>&1
