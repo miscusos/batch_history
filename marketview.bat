@@ -767,5 +767,4 @@ goto :u
 
 
 
-
-timeout /t 1 >nul
+: resolved code..
